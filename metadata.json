@@ -1,0 +1,7 @@
+{
+  "name": "F60 Fitness Studio",
+  "description": "Transform your body and mind at F60 Fitness Studio. Professional training, group classes, and nutrition coaching in Sion, Mumbai.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
